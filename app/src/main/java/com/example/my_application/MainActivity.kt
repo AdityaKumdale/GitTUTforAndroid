@@ -8,7 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("This is included in second commitf")
-        todia is dd dia good
+        println("This is included in second commit")
     }
 }
