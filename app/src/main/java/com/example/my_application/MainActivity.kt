@@ -9,6 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is included in second commit")
-        alkdsh; j;asjdf ;la; jdf;
     }
 }
