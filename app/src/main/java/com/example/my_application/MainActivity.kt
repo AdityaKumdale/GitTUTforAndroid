@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("This is included in second commit")
         println("Local change")
         println("Change 2")
+        println("This is change 3 ...")
     }
 }
